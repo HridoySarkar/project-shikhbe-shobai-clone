@@ -379,6 +379,18 @@ section.header{
 
 }
 
+.dev_E_T{
+    width: 68px;
+    height: 10px;
+    color: #21b573;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 5px;
+    margin: 42px auto 0;
+}
+
 
 
 
