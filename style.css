@@ -393,19 +393,34 @@ section.header{
 
 
 .future_right_container{
-    padding: 10px;
-    width: 100%;
+    padding: 20px;
+    width: 132%;
     border: 1px solid #ffffff;
     border-radius: 20px;
     box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 10%);
+    position: sticky;
+    top: 0;
 }
 .f_r_container_colume{}
-.f_r_text{}
+.f_r_text{
+    font-size: 20px;
+}
 
 .f_video{}
-.f_video iframe{}
-.f_text h3{}
-.f_text p{}
+.f_video iframe{
+    border-radius: 15px;
+    margin: 15px 0;
+}
+.f_text h3{
+    font-size: 20px;
+    color: #4d4d4d;
+}
+.f_text p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    flex-basis: 90%;
+    max-width: 90%;
+}
 .f_r_text{}
 .f_r_c_logos_flex{}
 
@@ -418,4 +433,31 @@ section.header{
 .btn_center{
     text-align: center;
     align-items: center;
+}
+.f_text_f{
+    flex-basis: 50%;
+    max-width: 50%;
+}
+.f_text_f h3{
+    color: #4d4d4d;
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.f_text_f p{}
+
+.future_left_container{}
+.flex{
+    display: flex;
+
+}
+.f_text_img{
+    flex-basis: 50%;
+    max-width: 50%;
+}
+.f_text_img img{
+    width: 100%;
+}
+.f_text{
+    padding: 30px 0;
 }
