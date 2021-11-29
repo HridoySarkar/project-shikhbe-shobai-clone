@@ -392,13 +392,30 @@ section.header{
 }
 
 
+.future_right_container{
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 10%);
+}
+.f_r_container_colume{}
+.f_r_text{}
 
+.f_video{}
+.f_video iframe{}
+.f_text h3{}
+.f_text p{}
+.f_r_text{}
+.f_r_c_logos_flex{}
 
-
-
-
-
-
-
-
-
+.logos{}
+.logos1{}
+.logos2{}
+.logos3{}
+.logos4{}
+.logos5{}
+.btn_center{
+    text-align: center;
+    align-items: center;
+}
