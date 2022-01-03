@@ -9,6 +9,9 @@
     -o-box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+html, body{
+    overflow-x: hidden;
+}
 a{
     text-decoration: none;
 }
@@ -74,8 +77,6 @@ section .text_banner{
     padding:  14px;
     
 }
-
-
 
 .banner_link{
     padding: 14px 40px 15px;
